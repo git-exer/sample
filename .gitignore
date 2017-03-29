@@ -35,12 +35,9 @@ tmp/
 *.swp
 *~.nib
 local.properties
-.settings/
 .loadpath
 .springBeans
 
-# Eclipse Core
-.project
 
 # External tool builders
 .externalToolBuilders/
